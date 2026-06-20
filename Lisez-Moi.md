@@ -111,9 +111,6 @@ Dans le widget :
 
 ## 📢 Réseaux
 
-- 🎮 Twitch : https://twitch.tv/Paglorieux  
-- 🧪 Twitch : https://twitch.tv/DoktorPst  
-- ▶️ YouTube : https://youtube.com/@Paglorieux  
 
 ---
 
